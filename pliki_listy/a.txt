@@ -1,0 +1,48 @@
+Wielomian nr 1
+2 		x^4
+3 		x^3
+4 		x^2
+5 		x^1
+6 		Wyraz wolny
+Wielomian nr 2
+34 		x^4
+2 		x^3
+1 		x^2
+45 		x^1
+6 		Wyraz wolny
+Wielomian nr 3
+3 		x^4
+2 		x^3
+24 		x^2
+6 		x^1
+7 		Wyraz wolny
+Wielomian nr 4
+4 		x^4
+5 		x^3
+6 		x^2
+6 		x^1
+4 		Wyraz wolny
+Wielomian nr 5
+2 		x^4
+45 		x^3
+6 		x^2
+7 		x^1
+5 		Wyraz wolny
+Wielomian nr 6
+2 		x^4
+3 		x^3
+4 		x^2
+5 		x^1
+6 		Wyraz wolny
+Wielomian nr 7
+3 		x^4
+3 		x^3
+6 		x^2
+8 		x^1
+6 		Wyraz wolny
+Wielomian nr 8
+3 		x^4
+5 		x^3
+6 		x^2
+788 		x^1
+2 		Wyraz wolny

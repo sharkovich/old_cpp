@@ -1,0 +1,12 @@
+Wielomian nr 1
+0 		x^4
+1 		x^3
+2 		x^2
+3 		x^1
+3 		Wyraz wolny
+Wielomian nr 2
+2 		x^4
+3 		x^3
+4 		x^2
+5 		x^1
+1 		Wyraz wolny
